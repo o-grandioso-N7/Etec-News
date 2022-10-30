@@ -18,7 +18,7 @@ header{
     width: 100%;
 }
 body{
-    background-image: linear-gradient(to top, rgb(14, 14, 31), black);
+    background-color: black;
     text-align: center;
     align-items: center;
     align-content: center;
@@ -80,4 +80,17 @@ button{
 }
 h2{
     color: white;
+}
+form{
+    border-radius: 3px solid black;
+    height: 80%;
+    margin: 30px;
+    padding: 30px;
+    background-color: white;
+    color: black;
+    width: 50%;
+    align-content: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
